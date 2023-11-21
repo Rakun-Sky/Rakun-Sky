@@ -1,9 +1,9 @@
-[![MasterHead](https://i.pinimg.com/originals/3f/b3/5e/3fb35e40e71805be97b5ab7c7265cac1.jpg)](https://ardha27.github.io/portfolio-tailwind/)
+[![MasterHead](https://i.ibb.co/jWWhWL0/caa291edd7c238e8b9d55ee8958b7a0d.gif)](https://ardha27.github.io/portfolio-tailwind/)
 
 <h1 align="center">Hi 👋, I'm Rakun</h1>
 <h3 align="center">Developer from Indonesia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/36/73/b2/3673b220d40793ab3bdb0114aca65803.gif">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/hXytp5W/375debb77ac45a8019a801a93f529be9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardha27&label=Profile%20views&color=0e75b6&style=flat" alt="ardha27" /> </p>
 
