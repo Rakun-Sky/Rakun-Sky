@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/jWWhWL0/caa291edd7c238e8b9d55ee8958b7a0d.gif)](https://ardha27.github.io/portfolio-tailwind/)
+[![MasterHead](https://i.ibb.co/jWWhWL0/caa291edd7c238e8b9d55ee8958b7a0d.gif)](#)
 
 <h1 align="center">Hi 👋, I'm Rakun</h1>
 <h3 align="center">Developer from Indonesia</h3>
